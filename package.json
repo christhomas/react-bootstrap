@@ -128,5 +128,5 @@
     "bowerRepo": "git@github.com:react-bootstrap/react-bootstrap-bower.git",
     "docsRepo": "git@github.com:react-bootstrap/react-bootstrap.github.io.git"
   },
-  "typings": "react-bootstrap.d.ts"
+  "typings": "./react-bootstrap.d.ts"
 }
