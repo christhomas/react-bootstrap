@@ -27,7 +27,8 @@
   "files": [
     "CHANGELOG.md",
     "lib",
-    "dist"
+    "dist",
+    "react-bootstrap.d.ts"
   ],
   "keywords": [
     "react",
